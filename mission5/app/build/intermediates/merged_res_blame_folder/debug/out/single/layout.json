@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-4:\\layout\\list_item.xml",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.myapplication.app-main-7:\\layout\\list_item.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.mission3.app-mergeDebugResources-4:/layout/activity_mission.xml",
+        "source": "com.example.mission3.app-main-7:/layout/activity_mission.xml"
+    },
+    {
+        "merged": "com.example.mission3.app-mergeDebugResources-4:/layout/fragment_first.xml",
+        "source": "com.example.mission3.app-main-7:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.mission3.app-mergeDebugResources-4:/layout/activity_sub.xml",
+        "source": "com.example.mission3.app-main-7:/layout/activity_sub.xml"
+    },
+    {
+        "merged": "com.example.mission3.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.mission3.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mission3.app-mergeDebugResources-4:/layout/fragment_second.xml",
+        "source": "com.example.mission3.app-main-7:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.mission3.app-mergeDebugResources-4:/layout/activity_last.xml",
+        "source": "com.example.mission3.app-main-7:/layout/activity_last.xml"
+    }
+]

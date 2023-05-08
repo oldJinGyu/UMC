@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_h2.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\h2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin3.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin3.jpg"
+    },
+    {
+        "merged": "com.example.java.app-merged_res-5:/layout_activity_main_gri.xml.flat",
+        "source": "com.example.java.app-main-7:/layout/activity_main_gri.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin5.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin5.jpg"
+    },
+    {
+        "merged": "com.example.java.app-merged_res-5:/layout_activity_main_rel.xml.flat",
+        "source": "com.example.java.app-main-7:/layout/activity_main_rel.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_h6.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\h6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_h5.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\h5.jpg"
+    },
+    {
+        "merged": "com.example.java.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.java.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin2.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_h3.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\h3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin7.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.java.app-merged_res-5:/layout_activity_main_tab.xml.flat",
+        "source": "com.example.java.app-main-7:/layout/activity_main_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_h1.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\h1.jpg"
+    },
+    {
+        "merged": "com.example.java.app-merged_res-5:/layout_activity_main_fra.xml.flat",
+        "source": "com.example.java.app-main-7:/layout/activity_main_fra.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin4.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_h.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\h.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_h7.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\h7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin8.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin1.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_h4.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\h4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\drawable_arin6.jpg.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\drawable\\arin6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.java.app-main-7:\\xml\\data_extraction_rules.xml"
+    }
+]

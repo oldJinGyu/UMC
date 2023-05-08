@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:title="searchTitle"
+        android:icon="@drawable/ic_search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/search1"
+        android:title="단축번호"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/search2"
+        android:title="키패드 화면을 기본으로 사용"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/search3"
+        android:title="영상통화 수단"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/search4"
+        android:title="설정"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/search5"
+        android:title="문의하기"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="never"/>
+</menu>

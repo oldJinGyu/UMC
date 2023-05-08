@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.mission4.app-mergeDebugResources-4:/layout/activity_sub.xml",
+        "source": "com.example.mission4.app-main-7:/layout/activity_sub.xml"
+    },
+    {
+        "merged": "com.example.mission4.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.mission4.app-main-7:/layout/activity_main.xml"
+    }
+]

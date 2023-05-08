@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.call.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\cj142\\.gradle\\daemon\\7.5\\com.example.call.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.call.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.call.app-main-7:/layout/activity_main.xml"
+    }
+]
