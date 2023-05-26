@@ -14,7 +14,7 @@ class Memo {
     @ColumnInfo
     var checkheart: Boolean = false
     @ColumnInfo
-    var checkstar: Boolean = false
+    var checkstar: String = "X"
 
     constructor(text : String){
         this.text = text

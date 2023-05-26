@@ -16,22 +16,28 @@ class MainAdapter(private val memoList: List<Memo>,
         fun bind(memo: Memo, position: Int) {
             binding.textNo.text = memo.no.toString()
             binding.rvText.text = memo.text
-            binding.checkStar.isChecked = memo.checkstar
-            binding.checkHeart.isChecked = memo.checkheart
 
-            binding.checkStar.setOnCheckedChangeListener(null)
-            binding.checkHeart.setOnCheckedChangeListener(null)
+            binding.btnStarOK.setOnClickListener {
+                if(memo.checkstar == "OK"){
+                    memo.checkstar = "X"
+                    spstar.edit()
+                        .putBoolean("checkState_star_$adapterPosition", false)
+                        .apply()
 
-            binding.checkStar.setOnCheckedChangeListener { _, isChecked ->
-                memo.checkstar = isChecked
+                    Toast.makeText(itemView.context, "즐겨찾기에서 해제되었습니다.", Toast.LENGTH_SHORT).show()
+                }
+                else{
+                    memo.checkstar = "OK"
+                    spstar.edit()
+                        .putBoolean("checkState_star_$adapterPosition", true)
+                        .apply()
+
+                    Toast.makeText(itemView.context, "즐겨찾기에 추가되었습니다.", Toast.LENGTH_SHORT).show()
+                }
                 updateMemo(memo)
-
-                spstar.edit()
-                    .putBoolean("checkState_star_$adapterPosition", isChecked)
-                    .apply()
             }
 
-            binding.checkHeart.setOnCheckedChangeListener { _, isChecked ->
+            binding.btnHeart.setOnCheckedChangeListener { _, isChecked ->
                 memo.checkheart = isChecked
                 updateMemo(memo)
 
@@ -39,6 +45,15 @@ class MainAdapter(private val memoList: List<Memo>,
                     .putBoolean("checkState_heart_$adapterPosition", isChecked)
                     .apply()
             }
+            binding.btnHeart.isChecked = spheart.getBoolean("checkState_heart_$position", false)
+
+            if(!spstar.getBoolean("checkState_star_$position", false)){
+                memo.checkstar = "X"
+            }
+            else{
+                memo.checkstar = "OK"
+            }
+            updateMemo(memo)
 
             itemView.setOnClickListener {
                 val position = adapterPosition
@@ -49,7 +64,7 @@ class MainAdapter(private val memoList: List<Memo>,
         }
     }
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): viewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MainAdapter.viewHolder {
         val binding = MemoBinding.inflate(LayoutInflater.from(parent.context), parent, false)
         return viewHolder(binding)
     }
@@ -58,13 +73,6 @@ class MainAdapter(private val memoList: List<Memo>,
 
     override fun onBindViewHolder(holder: viewHolder, position: Int) {
         val memo = memoList[position]
-
-        val checkStateStar = spstar.getBoolean("checkState_star_$position", false)
-        memo.checkstar = checkStateStar
-
-        val checkStateHeart = spheart.getBoolean("checkState_heart_$position", false)
-        memo.checkheart = checkStateHeart
-
         holder.bind(memo, position)
     }
 }

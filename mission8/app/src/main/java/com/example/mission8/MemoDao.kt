@@ -16,6 +16,6 @@ interface MemoDao {
     @Update
     fun update(memo: Memo)
 
-    @Query("SELECT * FROM memo WHERE checkstar = 1")
+    @Query("SELECT * FROM memo WHERE checkstar = 'OK'")
     fun getStarMemo(): List<Memo>
 }
