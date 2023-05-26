@@ -6,9 +6,4 @@
         android:icon="@drawable/baseline_star_24"
         android:title="메모추가"
         app:showAsAction="always" />
-    <item
-        android:id="@+id/back"
-        android:icon="@drawable/baseline_arrow_back_24"
-        android:title="뒤로가기"
-        app:showAsAction="always"/>
 </menu>

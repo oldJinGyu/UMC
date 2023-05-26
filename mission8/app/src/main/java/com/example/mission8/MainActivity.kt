@@ -71,12 +71,6 @@ class MainActivity : AppCompatActivity() {
                 startActivity(intent)
                 true
             }
-            R.id.back -> {
-                memoList.clear()
-                memoList.addAll(helper.memoDao().getAll())
-                memoAdapter.notifyDataSetChanged()
-                true
-            }
             else -> {
                 memoAdapter.notifyDataSetChanged()
                 true
